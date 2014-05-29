@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0370d1ac-bf6e-4270-8bd1-13bd67d32c03" name="Default" comment="" />
+    <list default="true" id="0370d1ac-bf6e-4270-8bd1-13bd67d32c03" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="formbuilder.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/MyFormBuilder.java" changelist="0370d1ac-bf6e-4270-8bd1-13bd67d32c03" time="1401384083784" ignored="false" />
     <file path="/Dummy.txt" changelist="0370d1ac-bf6e-4270-8bd1-13bd67d32c03" time="1401384226810" ignored="false" />
+    <file path="/README" changelist="0370d1ac-bf6e-4270-8bd1-13bd67d32c03" time="1401385070685" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,10 +79,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFormBuilder.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MyFormBuilder.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/using/MyFormBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="4" selection-start="464" selection-end="464" vertical-scroll-proportion="0.14827017">
+            <state line="15" column="4" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#2301#2472#0" expanded="true" />
                 <element signature="e#2467#2468#0" expanded="true" />
@@ -89,37 +93,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Showcase.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/using/Showcase.java">
+      <file leaf-file-name="ICommonPartBuilder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/components/builders/ICommonPartBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="32" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0">
+            <state line="4" column="17" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ITextAreaParametersHelper.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/parameters/ITextAreaParametersHelper.java">
+      <file leaf-file-name="TextAreaBuilder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/components/builders/TextAreaBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="17" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
+            <state line="6" column="45" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DateComboBoxChooserParametersHelper.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/parameters/DateComboBoxChooserParametersHelper.java">
+      <file leaf-file-name="CommonPartBuilder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/components/builders/CommonPartBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Parameter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/parameters/utils/Parameter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="12" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0">
+            <state line="7" column="41" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -128,7 +123,25 @@
       <file leaf-file-name="ParameterHelper.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/parameters/utils/ParameterHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0">
+            <state line="55" column="0" selection-start="1312" selection-end="1312" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="73" selection-start="122" selection-end="122" vertical-scroll-proportion="0.04761905">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parameter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/parameters/utils/Parameter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="4" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,15 +151,6 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/parameters/utils/ParametersMap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="14" column="25" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DateComboBoxChooser.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/components/custom/DateComboBoxChooser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -180,6 +184,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/using/MyFormBuilder.java" />
+        <option value="$PROJECT_DIR$/README" />
       </list>
     </option>
   </component>
@@ -639,7 +644,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1260" height="778" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -659,7 +664,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958813" sideWeight="0.67107195" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958813" sideWeight="0.67107195" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -728,34 +733,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/IFormBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/components/builders/CommonPartBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/components/builders/CheckBoxBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="45" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/parameters/TextFieldParametersHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/parameters/TextAreaParametersHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="13" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
@@ -780,20 +757,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/parameters/DateComboBoxChooserParametersHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="13" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/parameters/utils/Parameter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="12" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/parameters/utils/ParameterHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -837,13 +800,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/using/MyFormBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="4" selection-start="464" selection-end="464" vertical-scroll-proportion="0.14827017">
+        <state line="15" column="4" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#2301#2472#0" expanded="true" />
             <element signature="e#2467#2468#0" expanded="true" />
             <element signature="e#2505#2697#0" expanded="true" />
             <element signature="e#2692#2693#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/components/builders/ICommonPartBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/components/builders/TextAreaBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="45" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/components/builders/CommonPartBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="41" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/parameters/utils/Parameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/sald/formbuilder/core/parameters/utils/ParameterHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="0" selection-start="1312" selection-end="1312" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="73" selection-start="122" selection-end="122" vertical-scroll-proportion="0.04761905">
+          <folding />
         </state>
       </provider>
     </entry>
